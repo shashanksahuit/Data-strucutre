@@ -30,6 +30,12 @@ we have 2 ways to aviod the Collision
 
 worst case in chaining --> inside linkedList , you have to iterate over the all linkedlist and in that case time complexity O(N).
 
+Simple uniform Hashing 
+universal hashing 
+
+
+
+
 
 
 
