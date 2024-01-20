@@ -1,1 +1,38 @@
+in any data strucure there will be 3 operations
+store or add [insert]
+search 
+delete
+
+you have to play with these 3 operation in any data structure 
+Always try to compare the Data-structure based on these operation 
+******************************************************************************
+
+
+BST --> o (log N) in Binary search Tree 
+access or Search operation in constant time o(1);
+
+HashMaps
+in hashmap we store the key and value 
+key , value 
+
+-------------grep command use the HashMap --> [google it and read about it]
+
+HashCode --> with some formula you will calaclulate this hashcode 
+
+key should be the  posistive Integer 
+Hashcode can be very large so we have to reduce it
+
+
+collision 
+we have 2 ways to aviod the Collision 
+      1. chaining 
+      2. open addressing
+
+worst case in chaining --> inside linkedList , you have to iterate over the all linkedlist and in that case time complexity O(N).
+
+
+
+
+
+
 
