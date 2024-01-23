@@ -1,1 +1,28 @@
 Recursion notes
+
+
+PSV function(int num){
+if(num ==0 ){
+  return // base case here 
+}
+SYSout(); 
+function(num-1) ; //recursion call here 
+SYSout();
+}
+
+so recursion call ke upper jo lines hai wo stack call main upper jatte hui execute hongi and baad ke lines niche aate hue execute hongi 
+Ex --> result of avobe code following --> 
+5
+4
+3
+2
+1
+1
+2
+3
+4
+5
+******************************************************************************************************************************************************
+
+
+
